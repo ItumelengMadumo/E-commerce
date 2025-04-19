@@ -80,12 +80,7 @@ Access the admin panel at [http://localhost:3000/admin](http://localhost:3000/ad
 
 ## Deployment
 
-This application is ready to be deployed on platforms like Vercel, Render, or Railway.
-
 1. Set up your PostgreSQL database on your preferred provider.
 2. Configure the environment variables on your hosting platform.
 3. Deploy the application.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
